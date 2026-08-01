@@ -1,4 +1,4 @@
-# Nursery 3 — "Ashgrove House"
+# Nursery template 3 — "Ashgrove House"
 
 A one-page, high-conversion landing page template for a day nursery / pre-school.
 Classical treatment: serif display type, warm paper, heritage green, brass detail.
