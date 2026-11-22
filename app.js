@@ -91,7 +91,7 @@
         status.textContent = 'Thank you, we’ll be in touch today.';
       })
       .catch(function () {
-        status.textContent = 'Sorry, that didn’t send. Please call us on 01252 496 118.';
+        status.textContent = 'Sorry, that didn’t send. Please call us on 01632 960 118.';
       });
   });
 

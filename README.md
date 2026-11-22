@@ -41,7 +41,7 @@ Google Fonts `<link>` in `index.html` too.
 | `Ashgrove House` | Nursery name (header, footer, alt text) |
 | `Nursery & Pre-School` | Strapline |
 | `Farnham` / `GU9 7PA` / `14 Downing Street` | Address |
-| `01252 496 118` | Phone; also in `tel:+441252496118` and `app.js` |
+| `01632 960 118` | Phone; also in `tel:+441632960118` and `app.js` |
 | `hello@ashgrovehouse.co.uk` | Email |
 | `Est. 1994` / `2026` | Founding year, copyright |
 | `https://theodevenish-creator.github.io/nursery-3/` | Canonical URL |
