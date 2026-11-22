@@ -44,7 +44,7 @@ Google Fonts `<link>` in `index.html` too.
 | `01252 496 118` | Phone; also in `tel:+441252496118` and `app.js` |
 | `hello@ashgrovehouse.co.uk` | Email |
 | `Est. 1994` / `2026` | Founding year, copyright |
-| `https://example.com/` | Canonical URL |
+| `https://theodevenish-creator.github.io/nursery-3/` | Canonical URL |
 
 Then rewrite by hand: the hero line, the four `.stat`s, three `.tile`s, the
 `.statement` refusal line, three room `.card`s, four `.day` times, two quotes
